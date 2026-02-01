@@ -52,7 +52,7 @@ This project uses **Cypress** for end-to-end testing.
 ## 🔗 Live Demo
 
 👉 **View the live demo here:**  
-[Add your live demo link here]
+`https://AlperAyik.github.io/movie_finderDemo/`
 
 > ⚠️ The demo is unfinished and may not display correctly on all screen sizes.
 
