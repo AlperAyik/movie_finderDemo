@@ -14,3 +14,4 @@ In dit project wil ik mijn vaardigheden als student Front-End developer laten zi
 ----------
 ### verbeter styling maak mooier en responsive
 ### maak about en contact pagina
+### test includes bij query voor de api fetch
