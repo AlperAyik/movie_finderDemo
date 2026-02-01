@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MovieFinder</title>
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script type="module" crossorigin src="/movie_finderDemo/assets/index-BUvuzazP.js"></script>
+    <link rel="stylesheet" crossorigin href="/movie_finderDemo/assets/index-PD2pvnYa.css">
+  </head>
+  <body>
+    <!-- dialog -->
+    <dialog id="movie_info">
+      <div>
+        <img src="/movie_finderDemo/assets/maxresdefault-VQSKGbnC.jpg" alt="" id="movie_infoImg">
+      </div>
+      <div id="movie_text">
+        <!-- info -->
+        <h1 id="movie_title">Marvel</h1>
+        <p id="divider"></p>
+        <p id="movie_type">Type: Movie</p>
+        <p id="movie_year">Year: 2019</p>
+        <p id="movie_rating">Rating: 4</p>
+        <div id="dialog_buttons">
+          <button id="save_btn">Save</button>
+          <button id="close_btn">Close</button>
+        </div>
+      </div>
+    </dialog>
+
+    <!-- header -->
+    <section id="header">
+      <div id="header_title">
+        <h1>Movie Finder</h1>
+      </div>
+      <div id="header_linkbar">
+        <ul id="linkbar_list">
+          <li id="favorites_btn">Favorites <span id="favorites_count">1</span></li>
+          <li id="about_btn">About</li>
+          <li id="contact_btn">Contact</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- filter -->
+    <section id="filter_section">
+      <div id="searchbar_block">
+        <!-- add search icon -->
+        <input type="text" id="searchbar_input" placeholder="Search for movies...">
+        <button id="searchbar_btn">Search</button>
+      </div>
+      <div id="filter_block">
+        <ul id="filter_list">
+          <li id="all_btn">All</li>
+          <li id="movie_btn">Movie</li>
+          <li id="series_btn">Series</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- main -->
+    <section id="main">
+      <!-- Title main section -->
+      <div id="main_title">
+        <h1 id="main_titleH1">Discover Movies</h1>
+      </div>
+
+      <div id="card_body">
+        <div id="card_section">
+        <!-- card -->
+      </div>
+      </div>
+    </section>
+
+    <section id="about_section">
+      <!-- make about section -->
+    </section>
+
+  </body>
+</html>
