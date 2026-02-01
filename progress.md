@@ -10,5 +10,7 @@ In dit project wil ik mijn vaardigheden als student Front-End developer laten zi
 |                |                                                     |                                              |
 |                |                                                     |                                              |
 
+#Todo
+----------
 ### verbeter styling maak mooier en responsive
 ### maak about en contact pagina
